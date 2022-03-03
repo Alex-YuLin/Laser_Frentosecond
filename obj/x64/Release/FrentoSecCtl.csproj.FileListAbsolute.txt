@@ -1,0 +1,6 @@
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\LaserCtl\obj\x64\Release\FrentoSecCtl.csproj.CoreCompileInputs.cache
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\LaserCtl\bin\x64\Release\LaserCtl.dll
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\LaserCtl\bin\x64\Release\LaserCtl.pdb
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\LaserCtl\obj\x64\Release\LaserCtl.dll
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\LaserCtl\obj\x64\Release\LaserCtl.pdb
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\LaserCtl\obj\x64\Release\FrentoSecCtl.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\bin\Debug\LaserCtl.dll
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\bin\Debug\LaserCtl.pdb
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\bin\Debug\LaserIntFace.dll
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\bin\Debug\Math.dll
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\bin\Debug\Newtonsoft.Json.dll
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\bin\Debug\RestSharp.dll
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\bin\Debug\LaserIntFace.pdb
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\bin\Debug\Math.pdb
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\bin\Debug\Newtonsoft.Json.xml
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\bin\Debug\RestSharp.xml
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\obj\Debug\FrentoSecCtl.csprojAssemblyReference.cache
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\obj\Debug\FrentoSecCtl.csproj.CoreCompileInputs.cache
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\obj\Debug\FrentoSecCtl.csproj.CopyComplete
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\obj\Debug\LaserCtl.dll
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\FrentoSecCtl\obj\Debug\LaserCtl.pdb
